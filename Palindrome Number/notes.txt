@@ -1,0 +1,30 @@
+x = 121;
+
+reversed = 0;
+
+121 > 0? Yes
+
+reversed = 0 * 10 + 121 % 10
+         = 0 + 1
+         = 1
+
+x = 121 / 10 // integer division
+  = 12
+
+12 > 1? Yes
+
+reversed = 1 * 10 + 12 % 10
+         = 10 + 2
+         = 12
+
+x = 12 / 10
+  = 1
+
+1 > 12? No
+
+1 == 12? false
+
+1 == 12 / 10
+1 == 1? Yes
+
+return True
